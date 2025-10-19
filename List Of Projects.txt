@@ -9,7 +9,7 @@ Focus: Data preprocessing, regression, classification, visualization.
 ### 🔹 Regression (Prediction)
 
 1. House Price Prediction (Kaggle Boston Housing / Ames Dataset)
-2. Student Score Prediction
+2. Student Score Prediction --Done
 3. Salary Prediction Based on Experience
 4. Car Price Prediction
 5. Startup Profit Prediction
