@@ -1,0 +1,38 @@
+#python cache files
+*.pyc
+__pycache__/
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints
+#VS Code settings
+.vscode/
+#Environment files
+.env
+.venv/
+env/
+venv/
+#MacOS files
+.DS_Store
+#Log files
+*.log
+#Data files
+data/
+#Model files
+models/
+.joblib/
+.pkl
+#Output files
+output/
+#Temporary files
+*.tmp
+#System files
+Thumbs.db
+#IDE specific files
+.idea/
+#Coverage files
+.coverage
+htmlcov/
+#Test files
+tests/
+#Build files
+build/
+dist/
